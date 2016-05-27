@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /public/
+Disallow: /public/gallery/
+Disallow: /public/gallery/thumbnails/
+Disallow: /public/lg/
+Disallow: /public/md/
+Disallow: /public/sm/
+Disallow: /public/xs/
+Disallow: /css/
+Disallow: /js/
+Disallow: /js/bs
+Disallow: /fonts/
